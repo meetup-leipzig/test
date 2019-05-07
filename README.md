@@ -10,6 +10,16 @@ __Requirements__:
 
 - [Hugo](https://gohugo.io/)
 
+### Installing
+
+1. [Install Hugo](https://gohugo.io/getting-started/installing/) binary.
+
+2. Install dependecies (theme)
+
+    ```sh
+    make
+    ```
+
 ### Development
 
 ```sh
