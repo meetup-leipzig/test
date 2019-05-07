@@ -1,0 +1,12 @@
+baseURL = "http://127.0.0.1:8080/"
+languageCode = "en-us"
+title = "Meetup Leipzig"
+
+theme = "hugo-theme-minos"
+paginate = 10
+
+[params]
+    smartToc = true
+    googleAnalytics = "UA-123-45"
+
+disqusShortname = "xxxxxx"
